@@ -30,7 +30,7 @@
 ## Variable = OID 
 ## OID Values : 
 ## CPU temperature 
-## Fan speed 
+## Fan speed
 ## outbound packets 
 
 
