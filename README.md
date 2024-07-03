@@ -1,9 +1,9 @@
-# Download vscode if you have it okey
-## install the extension Markmap on vscode to visualize your markdown files 
+# Download vscode,if you have it okey
+## Install the extension Markmap on vscode to visualize your markdown files 
 ![Screenshot (1062)](https://user-images.githubusercontent.com/39829558/151965405-9ed28b58-a46d-4af6-95e7-ae206166b547.png)
-## open a new file and name it Devnet associate journey .md as file extension for Markdown files 
+## Open a new file and name it Devnet associate journey .md as file extension for Markdown files 
 
-## start writing your markdown file by using hashes symbols 
+## Start writing your markdown file by using hashes symbols 
 ![Screenshot (1120)](https://user-images.githubusercontent.com/39829558/151966568-739006f6-9232-4a74-984e-fdd4c378be71.png)
 use 1 # to write a topic use 2 ## to write sub topics,all you need is the basics of Markdown to create anyfile you want.
 
