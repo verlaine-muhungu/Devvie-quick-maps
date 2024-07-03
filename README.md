@@ -5,7 +5,7 @@
 
 ## start writing your markdown file by using hashes symbols 
 ![Screenshot (1120)](https://user-images.githubusercontent.com/39829558/151966568-739006f6-9232-4a74-984e-fdd4c378be71.png)
-use 1 # to write a topic use 2 ## to write sub topics 
+use 1 # to write a topic use 2 ## to write sub topics,all you need is the basics of Markdown to create anyfile you want.
 
 after writing several lines,to view your markdown file as a Mind Nmap you have to click in the right corner of vscode you will see a symbol like euro 
 
@@ -22,4 +22,4 @@ you can customize my Mind Nmap as you want,using your own Arborescence
 Feel free to add a topic and Subtopic,let it grow together 
 
 
-special thanks to @John capobianco 
+special thanks to @John capobianco for the inspiration,simplify your learning now !
